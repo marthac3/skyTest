@@ -37,4 +37,4 @@ To Run Server:<br>
  
  <h4> Other notes </h4>
  <p>
-  The resources I found useful when writing this code were the article on afternerd https://www.afternerd.com/blog/python-http-server/ and this video by youtube user Conor Bailey https://www.youtube.com/watch?v=dgvLegLW6ek. With the exception I pointed out in the comments I was comfortable enough understanding the examples to alter them to suit my needs, however my knowledge here is still at a starter level.
+  The resources I found useful when writing this code were the article on afternerd https://www.afternerd.com/blog/python-http-server/ and this video by youtube user Conor Bailey https://www.youtube.com/watch?v=dgvLegLW6ek. With the exception I pointed out in the comments I was comfortable enough understanding the examples to alter them to suit my needs, however my knowledge here is still at a starter level. <br> I chose Python and Selenium for my automated testing due to the short time frame and the fact that I had previous experience with them.
