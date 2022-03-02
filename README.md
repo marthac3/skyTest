@@ -34,3 +34,7 @@ To Run Server:<br>
   <li>$python3 pythonServerTest.py</li>
   </ul>
  </p>
+ 
+ <h4> Other notes </h4>
+ <p>
+  The resources I found useful when writing this code were the article on afternerd https://www.afternerd.com/blog/python-http-server/ and this video by youtube user Conor Bailey https://www.youtube.com/watch?v=dgvLegLW6ek, with the exception I pointed out in the comments I was comfortable enough understanding the examples to alter them to suit my needs, however I don't think I've explored enough to give myself a very deep understanding of creating a web server.
