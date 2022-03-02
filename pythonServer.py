@@ -29,9 +29,11 @@ class Handler(BaseHTTPRequestHandler):
 		self.send_response(200)
 		self.send_header('Content-type', 'text/html')
 		self.end_headers()
+		#helloName held relevent fields from the form in a list, this takes the wanted value from the list as a string and concatenates with the greeting text
 		successText = ('Hello '+ str(helloName[0]))
 		output = ''
 		output += '<html><body>'
+		#In order to make testing easier, the success text is in an ID tag
 		output += '<h1 id="success">'
 		output += successText
 		output += '</h1>'
