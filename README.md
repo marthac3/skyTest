@@ -13,6 +13,9 @@ To Run Server:<br>
     Run from directory
     <li>$python3 pythonServer.py</li>
   </ul>
+  <ul>
+    Go to localhost:8080 on browser
+  </ul>
 </p>
  
 <p>
